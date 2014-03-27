@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Warrior Menu</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Set</string>
     <string name="hello_world">Hello world!</string>
 
 </resources>
