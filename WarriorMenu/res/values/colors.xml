@@ -2,5 +2,6 @@
 <resources>
 <color name="black">#000000</color>
 <color name="black_overlay">#66000000</color>
-<color name="wayne_green">#005200</color>
+<color name="wayne_green">#0b4f45</color>
+<color name="wayne_yellow">#ffcc33</color>
 </resources>
