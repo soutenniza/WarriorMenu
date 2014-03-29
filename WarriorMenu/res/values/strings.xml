@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">Warrior Menu</string>
-    <string name="action_settings">Set</string>
-    <string name="hello_world">Hello world from Van!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="find_Food">Find Food</string>
 
 </resources>
