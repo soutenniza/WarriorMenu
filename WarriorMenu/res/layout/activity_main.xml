@@ -10,7 +10,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".MainActivity"
-    android:background="@color/wayne_green" >
+    android:background="#FF33CC" >
 
     <LinearLayout
         android:id="@+id/linearLayout1"
@@ -23,7 +23,9 @@
             android:id="@+id/textView1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/app_name" />
+            android:text="@string/app_name"
+            android:textSize="@dimen/main_menu_size"
+            android:textColor="@color/wayne_yellow" />
     </LinearLayout>
 
     <Button
